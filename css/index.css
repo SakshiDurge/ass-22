@@ -1,0 +1,45 @@
+.subtitle-highlight{
+    background-color: #8bd3dd;
+   
+    padding: 1px 10px;
+    border-radius: 3px;
+}
+.why-choose-us-heading{
+    margin-top: 50px 0;
+}
+.why-choose-us-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #f3d2c1;
+    margin: 20px 0;
+    padding: 20px;
+}
+.why-choose-us-card{
+background-color: #fffffffb;
+width: 170px;
+padding: 10px;
+border-radius: 5px;
+margin: 10px;
+box-shadow: 0 0 10px 5px #808080;
+}
+.why-choose-us-img{
+    height: 60px;
+    display: block;
+    margin: 10px auto;
+}
+.header-section{
+    display: flex;
+}
+.header-img-container{
+    width: 50%;
+}
+.header-img{
+    height: 200px;
+    border: 10px solid #f3d2c1;
+    display: block;
+    margin: 20px auto;
+}
+
+
+
+
